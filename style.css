@@ -1,0 +1,12 @@
+body {
+    background:black;
+    color:whitesmoke;
+}
+
+.hero {
+    width:600px;
+    height:60vh;
+    background:url("images/john-coltrane2.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+}
