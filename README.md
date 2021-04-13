@@ -1,1 +1,1 @@
-# jphn-coltrane-bio-2
+# john-coltrane-bio-2
